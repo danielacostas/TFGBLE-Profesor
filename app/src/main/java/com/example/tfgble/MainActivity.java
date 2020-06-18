@@ -576,6 +576,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             bluetoothMacAddress = bluetoothAdapter.getAddress();
         }
         return bluetoothMacAddress;
+        //e
     }
 
     @Override
